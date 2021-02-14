@@ -1,0 +1,15 @@
+{
+  "id": "0c1c4f2b-cdda-4ee5-abf9-167d72da0427",
+  "label": "ukuli-noflo NoFlo runtime",
+  "secret": "vebihihiwu",
+  "permissions": {
+    "vebihihiwu": [
+      "protocol:component",
+      "protocol:runtime",
+      "protocol:graph",
+      "protocol:network",
+      "component:getsource",
+      "component:setsource"
+    ]
+  }
+}
