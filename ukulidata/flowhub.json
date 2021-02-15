@@ -1,0 +1,15 @@
+{
+  "id": "885e28b7-7488-473b-a3b2-46ed65854c70",
+  "label": "ukuli-noflow-bot NoFlo runtime",
+  "secret": "jubigokade",
+  "permissions": {
+    "jubigokade": [
+      "protocol:component",
+      "protocol:runtime",
+      "protocol:graph",
+      "protocol:network",
+      "component:getsource",
+      "component:setsource"
+    ]
+  }
+}
